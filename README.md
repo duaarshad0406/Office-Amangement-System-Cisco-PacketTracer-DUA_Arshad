@@ -1,2 +1,16 @@
 # Office-Amangement-System-Cisco-PacketTracer-DUA_Arshad
-A Cisco Packet Tracer based computer network simulation project implementing routing, switching, IP addressing, VLANs, and network communication between multiple devices.
+A C# Computer Network Final Project
+
+## Description
+A Cisco Packet Tracer based network simulation project implementing routing, switching, VLANs, and IP addressing.
+
+## Software Used
+- Cisco Packet Tracer
+
+## Features
+- Router configuration
+- VLAN setup
+- Connectivity testing
+
+## Developed By
+Dua Arshad
