@@ -1,5 +1,5 @@
-# Office-Amangement-System-Cisco-PacketTracer-DUA_Arshad
-A C# Computer Network Final Project
+# Office-management-System-Cisco-PacketTracer-DUA_Arshad
+A  Computer Network Final Project
 
 ## Description
 A Cisco Packet Tracer based network simulation project implementing routing, switching, VLANs, and IP addressing.
